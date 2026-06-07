@@ -2,6 +2,8 @@
 
 A collection of all [Bootstrap](https://icons.getbootstrap.com) SVG icon paths as Java enum constants – ready to be used in any Java program.
 
+![Bootstrap](https://github.com/Maran23/svgnode/blob/demo/demo/library_bootstrap.webp?raw=true)
+
 ## Features
 
 - 🎨 All Bootstrap icons as Java enums
