@@ -10,13 +10,13 @@ A collection of all [Bootstrap](https://icons.getbootstrap.com) SVG icon paths a
 - 🔗 No dependencies
 - 📐 Designed as a companion library for [SvgNode](https://github.com/Maran23/svgnode) for use in JavaFX applications – but works in any Java context
 
-## Requirements
+## Installation
+
+### Requirements
 
 | Dependency | Version |
 |------------|---------|
 | Java       | 25+     |
-
-## Installation
 
 ### Maven
 
@@ -69,7 +69,7 @@ SvgNode node = new SvgNode(Bootstrap.HOUSE, 32);
 <?import tools.maran.svgnode.SvgNode?>
 <?import tools.maran.svg.bootstrap.Bootstrap?>
 
-<SvgNode size="32" svgColor="RED">
+<SvgNode size="32" color="RED">
     <path>
         <Bootstrap fx:constant="HOUSE"/>
     </path>
