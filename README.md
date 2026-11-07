@@ -1,6 +1,7 @@
 # SVG Bootstrap
 
-A collection of all [Bootstrap](https://icons.getbootstrap.com) SVG icon paths as Java enum constants – ready to be used in any Java program.
+A collection of all [Bootstrap](https://icons.getbootstrap.com) SVG icon paths as Java enum constants -- ready to be
+used in any Java program.
 
 ![Bootstrap](https://github.com/Maran23/svgnode/blob/demo/demo/library_bootstrap.webp)
 
@@ -8,7 +9,8 @@ A collection of all [Bootstrap](https://icons.getbootstrap.com) SVG icon paths a
 
 - 🎨 All Bootstrap icons as Java enums
 - 🔗 No dependencies
-- 📐 Designed as a companion library for [SvgNode](https://github.com/Maran23/svgnode) for use in JavaFX applications – but works in any Java context
+- 📐 Designed as a companion library for [SvgNode](https://github.com/Maran23/svgnode) for use in JavaFX applications --
+  but works in any Java context
 
 ## Installation
 
@@ -63,6 +65,7 @@ import tools.maran.svg.bootstrap.Bootstrap;
 
 SvgNode node = new SvgNode(Bootstrap.HOUSE, 32);
 ```
+
 #### FXML
 
 ```xml
@@ -75,6 +78,12 @@ SvgNode node = new SvgNode(Bootstrap.HOUSE, 32);
     </path>
 </SvgNode>
 ```
+
+## Changelog
+
+### Version 1.0.0
+
+- Initial release
 
 ## Acknowledgements
 
